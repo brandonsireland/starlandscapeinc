@@ -1,0 +1,6 @@
+img/*
+mail/*
+!css/custom314.css
+css/*
+!js/scripts.js
+js/*

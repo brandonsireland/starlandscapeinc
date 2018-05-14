@@ -1,0 +1,18 @@
+<IfModule mod_expires.c>
+RewriteEngine on
+RewriteBase /
+RewriteRule ^home\.html?$ / [NC,R,L]
+# Enable expirations
+ExpiresActive On 
+# Default directive
+ExpiresDefault "access plus 1 month"
+# Images
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/PNG "access plus 1 month"
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+# CSS
+ExpiresByType text/css "access plus 1 month"
+# JS
+ExpiresByType application/javascript "access plus 1 year"
+</IfModule>
