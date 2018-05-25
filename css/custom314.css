@@ -1,0 +1,118 @@
+
+.line-break {
+	margin-top: 0px !important;
+}
+.about-p {
+    font-size: 16px!important;
+}
+
+.btn1 {
+    margin-top: 20px;
+}
+
+.disc{
+  height:216px;
+  width:216px;
+  background-color:rgba(39, 174, 96, 0.75);
+  border-radius: 50%;
+  position:absolute;
+  -webkit-transition: all .25s ease-out;
+  transition:all .25s ease-out;
+}
+
+.disc-one {
+  margin:25% 0 0 12.5%;
+  z-index:1;
+}
+
+.disc-two {
+  margin: 0 0 0 25%;
+  z-index:2;
+}
+.disc-three {
+  margin: 0 0 0 0;
+  z-index:3;
+}
+.disc-one:hover,
+.disc-two:hover,
+.disc-three:hover {
+  background-color: #27AE60;
+  z-index: 4;
+  
+}
+.disc-one:active,
+.disc-two:active,
+.disc-three:active {
+  background-color: rgba(255,255,255,0.65);
+  text-shadow:none;
+}
+.bg-trans {
+background-repeat: no-repeat;
+  background-position: left 0px !important;
+}
+.two-col {
+    overflow: hidden;/* Makes this div contain its floats */
+}
+
+.two-col .col1,
+.two-col .col2 {
+    width 100%;
+}
+
+.two-col .col1 {
+    float: left;
+}
+
+.two-col .col2 {
+    float: right;
+}
+
+.two-col label {
+    display: block;
+}
+.col1 > input[type="text"],
+.col2 > input[type="text"],
+.col1 > select,
+.col2 > select,
+.col1 > input[type="date"],
+.col2 > input[type="date"],
+.col1 > input[type="datetime"],
+.col2 > input[type="datetime"],
+.col1 > input[type="time"],
+.col2 > input[type="time"]{
+    padding: 0 180px 0 20px;
+}
+
+.input span {
+    float:right;
+}
+.slides {
+    max-height: !60px;
+}
+.lg-sub-html h5 {
+    color:#fff;
+}
+
+/* BUTTON SCALING */
+@media (max-width: 768px) {
+  .btn-responsive {
+    padding:2px 3px;
+    font-size:80%;
+    line-height: 1;
+	padding-top: 13px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .btn-responsive {
+    padding:4px 9px;
+    font-size:90%;
+    line-height: 1.2;
+  }
+}
+
+@media and all (max-width: 1200){
+	.two-col{
+		overflow: none !important;
+	}
+}
