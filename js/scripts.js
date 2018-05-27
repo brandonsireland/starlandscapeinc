@@ -1478,7 +1478,7 @@ serviceRequestSize();
         },
         walkWay: {
             docTitle: 'Walk Way',
-            len : 10,
+            len : 2,
             'listA.href' : "/img/projects/walkway/walkway",
             'listImg.src' : "/img/projects/walkway/walkway",
         },
