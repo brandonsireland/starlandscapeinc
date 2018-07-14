@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Portfolio</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+	<link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/theme-chipotle314.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/custom314.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/jquery.bxslider314.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/lightbox.min.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+	<link href="http://fonts.googleapis.com/css?family=Montserrat:100,300,400,600,700" rel="stylesheet" type="text/css">
+	<link href="css/font-montserrat.css" rel="stylesheet" type="text/css">
+</head>
+
+<body class="scroll-assist btn-rounded">
+
+	<div class="nav-container">
+		<nav class="absolute transparent">
+			<div class="nav-bar">
+				<div class="module left">
+					<a href="home.php">
+					<div class="vnu"><img class="logo logo-light" alt="Star-Landscape" src="img/logo/headerlogo-white.png"></div>
+						<div class="vnu"><img class="logo logo-dark" alt="Star-Landscape" src="img/logo/headerlogo-black.png"></div>
+					</a>
+				</div>
+				<div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+					<i class="ti-menu"></i>
+				</div>
+				<div class="module-group right">
+					<div class="module left">
+						<ul class="menu">
+						<li class="vpf">
+								<a href="/about.php" class="inner-link" target="_self">ABOUT</a>
+							</li>
+							<li>
+								<a href="/services.php" class="inner-link" target="_self">SERVICES</a>
+							</li>
+							<li class="vpf">
+								<a href="/portfolio.php" class="inner-link" target="_self">PORTFOLIO</a>
+							</li>
+							<li class="vpf">
+                            <a href="/request.php" class="inner-link" target="_self">REQUEST</a>
+							</li>
+							<li class="vpf">
+								<a href="/careers.php" class="inner-link" target="_self">CAREERS</a>
+							</li>
+							<li class="vpf">
+								<a href="/contact.php" class="inner-link" target="_self">CONTACT</a>
+							</li>
+							<li class="vpf">
+								<?php
+									if ($base_lang == 'es') {
+									echo '<a href="'.basename(__FILE__).'?lang=en">English</a>';
+									} else {
+									echo '<a href="'.basename(__FILE__).'?lang=es">Spanish</a>';
+									}
+								?>
+							</li>
+						</ul>
+					</div>
+
+
+				</div>
+
+			</div>
+		</nav>
+	</div>
+
+	<div class="main-container">
+		<section class="image-bg overlay pt240 pb240 pt-xs-180 pb-xs-180 overlay parallax">
+			<div class="background-image-holder">
+				<img alt="image" class="background-image cast-shadow" src="img/headers/Portfolio-header.jpg">
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h1 class="mb32 uppercase bold italic large text-center">OUR WORK</h1>
+
+					</div>
+				</div>
+
+			</div>
+
+		</section>
+		<section class="projects pt48 bg-secondary">
+			<div class="container">
+				<div class="row masonry-loader">
+					<div class="col-sm-12 text-center">
+						<div class="spinner"></div>
+					</div>
+				</div>
+				<div class="row masonry masonryFlyIn">
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="blaine.html">
+								<img alt="Pic" src="img/projects/blaine/blaine12.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Blaine</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="Calle-Puente.html">
+								<img alt="Pic" src="img/projects/calle_puente/calle_puente0.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Calle Puente</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="citrus-cove.html">
+								<img alt="Pic" src="img/projects/citrus/citruscove0.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Citrus Cove</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="green-meadow.html">
+								<img alt="Pic" src="img/projects/green/greenmeadow5.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Green Meadow</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="heights.html">
+								<img alt="Pic" src="img/projects/heights/heights0.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Heights</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="laguna-nigel.html">
+								<img alt="Pic" src="img/projects/laguna/laguna0.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Laguna Nigel</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="new-orleans.html">
+								<img alt="Pic" src="img/projects/orleans/neworleans0.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">New Orleans</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="pathway.html">
+								<img alt="Pic" src="img/projects/pathway/pathway0.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Path Way</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="parkway.html">
+								<img alt="Pic" src="img/projects/pk/pk1.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Park Way</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="rolling-hills.html">
+								<img alt="Pic" src="img/projects/rolling_hills/rollinghills5.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Rolling Hills</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="sunnycrest.html">
+								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest1.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Sunny Crest</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 masonry-item project">
+						<div class="image-tile inner-title hover-reveal text-center">
+							<a href="walkway.html">
+								<img alt="Pic" src="img/projects/walkway/walkway0.jpg">
+								<div class="title">
+									<h5 class="uppercase mb0">Walk Way</h5>
+									<!-- <span>Hardscape / Renovation</span> -->
+								</div>
+							</a>
+						</div>
+					</div>				
+				</div>
+			</div>
+		</section>
+		<footer class="footer-2 bg-dark text-center-xs">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<a href="/home.php">
+							<div class="vnu"><img class="image-s fade-half" alt="Pic" src="img/logo/footerlogo.png"></div>
+						</a>
+					</div>
+
+					<div class="col-sm-4 text-center mt120">
+						<span class="fade-half">
+								<?php echo trans('Copywrite'); ?>
+							</span>
+					</div>
+
+					<div class="col-sm-4 text-right text-center-xs fade-half mt64">
+						<?php echo trans('Address'); ?>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/masonry.min.js"></script>
+	<script src="js/flexslider.min.js"></script>
+	<script src="js/smooth-scroll.min.js"></script>
+	<script src="js/parallax.js"></script>
+	<script src="js/scripts.js"></script>
+	<script src="js/lightbox.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/g/respond@1.4.2,html5shiv@3.7.3,selectivizr@1.0.3b"></script>
+</body>
+
+</html>

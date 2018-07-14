@@ -109,7 +109,7 @@
 		                </div>
 					
 		                <div class="col-md-6 col-md-offset-1 col-sm-6 text-center">
-		                    <img class="cast-shadow" alt="Screenshot" src="img/about-us/markHershey.JPG">
+		                    <img class="cast-shadow" alt="Screenshot" src="img/about-us/markHershey2.JPG">
 		                </div>
 						
 		            </div>
