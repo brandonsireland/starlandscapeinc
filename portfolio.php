@@ -102,7 +102,7 @@
 
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest2.jpg" data-lightbox="22" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest2.jpg" data-lightbox="22" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest2.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -114,7 +114,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest3.jpg" data-lightbox="23" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest3.jpg" data-lightbox="23" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest3.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -126,7 +126,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest4.jpg" data-lightbox="24" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest4.jpg" data-lightbox="24" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest4.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -138,7 +138,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest5.jpg" data-lightbox="25" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest5.jpg" data-lightbox="25" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest5.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -150,7 +150,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest7.jpg" data-lightbox="26" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest7.jpg" data-lightbox="26" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest7.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -162,7 +162,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest8.jpg" data-lightbox="27" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest8.jpg" data-lightbox="27" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest8.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -174,7 +174,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest9.jpg" data-lightbox="28" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest9.jpg" data-lightbox="28" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest9.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -186,7 +186,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest10.jpg" data-lightbox="29" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest10.jpg" data-lightbox="29" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest10.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -198,7 +198,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest11.jpg" data-lightbox="30" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest11.jpg" data-lightbox="30" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest11.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -210,7 +210,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest12.jpg" data-lightbox="31" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest12.jpg" data-lightbox="31" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest12.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -222,7 +222,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest13.jpg" data-lightbox="32" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest13.jpg" data-lightbox="32" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest13.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -234,7 +234,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest14.jpg" data-lightbox="32" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest14.jpg" data-lightbox="32" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest14.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -246,7 +246,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest15.jpg" data-lightbox="32" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest15.jpg" data-lightbox="32" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest15.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -258,7 +258,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest16.jpg" data-lightbox="32" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest16.jpg" data-lightbox="32" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest16.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -270,7 +270,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest17.jpg" data-lightbox="32" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest17.jpg" data-lightbox="32" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest17.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -282,7 +282,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest18.jpg" data-lightbox="32" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest18.jpg" data-lightbox="32" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest18.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -294,7 +294,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest19.jpg" data-lightbox="32" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest19.jpg" data-lightbox="32" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest19.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -306,7 +306,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/sunnycrest/sunnycrest20.jpg" data-lightbox="33" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/sunnycrest/sunnycrest20.jpg" data-lightbox="33" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/sunnycrest/sunnycrest20.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Sunny Crest</h5>
@@ -319,7 +319,7 @@
 
 					<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People">
 						<div class="image-tile inner-title hover-reveal text-center">
-							<a href="img/projects/pathway/pathway-1.jpg" data-lightbox="1" data-title="I THINK THIS IS IT?" description="WATTTTT">
+							<a href="img/projects/pathway/pathway-1.jpg" data-lightbox="1" data-title=" " description=" ">
 								<img alt="Pic" src="img/projects/pathway/pathway-1-min.jpg">
 								<div class="title">
 									<h5 class="uppercase mb0">Path Way</h5>

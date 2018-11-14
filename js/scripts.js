@@ -1412,25 +1412,25 @@ serviceRequestSize();
     const starProjects = {
         sunnyCrest:{
             docTitle: 'Sunny Crest',
-            len : 19,
+            len : 14,
             'listA.href' : "/img/projects/sunnycrest/sunnycrest",
             'listImg.src' : "/img/projects/sunnycrest/sunnycrest",
         },
         callePuente:{
             docTitle: 'Calle Puente',
-            len : 71,
+            len : 34,
             'listA.href' : "/img/projects/calle_puente/calle_puente",
             'listImg.src' : "/img/projects/calle_puente/calle_puente",
         },
         blaine:{
             docTitle: 'Blaine',
-            len : 28,
+            len : 7,
             'listA.href' : "/img/projects/blaine/blaine",
             'listImg.src' : "/img/projects/blaine/blaine",
         },
         citrusCove:{
             docTitle: 'Citrus Cove',
-            len : 43,
+            len : 18,
             'listA.href' : "/img/projects/citrus/citruscove",
             'listImg.src' : "/img/projects/citrus/citruscove",
         },
@@ -1448,7 +1448,7 @@ serviceRequestSize();
         },
         lagunaNigel:{
             docTitle: 'Laguna Nigel',
-            len : 20,
+            len : 7,
             'listA.href' : "/img/projects/laguna/laguna",
             'listImg.src' : "/img/projects/laguna/laguna",
         },

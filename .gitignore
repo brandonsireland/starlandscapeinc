@@ -1,7 +1,7 @@
 img/*
 mail/*
-!css/custom314.css
 css/*
+!css/custom314.css
 !js/scripts.js
 js/*
 fonts/*

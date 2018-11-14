@@ -114,5 +114,9 @@ background-repeat: no-repeat;
 @media and all (max-width: 1200){
 	.two-col{
 		overflow: none !important;
-	}
+	};
+}
+
+.lb-close::before {
+    display: none;
 }
